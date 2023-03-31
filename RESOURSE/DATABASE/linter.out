@@ -1,0 +1,157 @@
+31.03.2023 15:57:29 NONAME-?-NOMESSAGE,No message number 0x8000012b
+                    NONAME-?-NOMESSAGE,No message number 0x80000073Database creation time:      31.03.2023 15:57:29.41
+Last database startup time:  Unknown
+Last database shutdown time: Unknown
+31.03.2023 15:57:29.468 Linter SQL Standard v. 6.0.17.94 connected to data base  "STUDENT          "
+31.03.2023 15:57:29.478  SY00 is "F:\JOB\PYTHON_NACHALO\Pars\PRS\RESOURSE\DATABASE\"
+31.03.2023 15:57:29.478  POOL holds 5000 pages (4599 free pages, 0 pages for in-memory tables)
+31.03.2023 15:57:29.493  Table    queue size  : 100 (0)
+31.03.2023 15:57:29.498  Column   queue size  : 500 (0)
+31.03.2023 15:57:29.498  Channel  queue size  : 100
+31.03.2023 15:57:29.509  File     queue size  : 200 (0)
+31.03.2023 15:57:29.509  User     queue size  : 100
+31.03.2023 15:57:29.523  Servers table is absent
+31.03.2023 15:57:29.528  Procedures table is absent
+31.03.2023 15:57:29.528  Procedures Dictionary table is absent
+31.03.2023 15:57:29.541  Security groups table is absent
+31.03.2023 15:57:29.549  Security levels table is absent
+31.03.2023 15:57:29.549  Devices table is absent
+31.03.2023 15:57:29.563  Stations table is absent
+31.03.2023 15:57:29.568  Replication rules table is absent
+31.03.2023 15:57:29.578  Trigger table is absent
+31.03.2023 15:57:29.578  Filter table is absent
+31.03.2023 15:57:29.588  File extension table is absent
+31.03.2023 15:57:29.598  Sequence table is absent
+31.03.2023 15:57:29.598  Charset table is absent
+31.03.2023 15:57:29.608  Translate table is absent
+31.03.2023 15:57:29.618  Errors table is absent
+31.03.2023 15:57:29.618  In-kernel backup table is absent
+31.03.2023 15:57:29.633  Auditing disabled 
+31.03.2023 15:57:29.638  Events table is absent
+31.03.2023 15:57:29.641  Comments table is absent
+31.03.2023 15:57:29.653  Global variables table is absent
+31.03.2023 15:57:29.658  Transaction control is turned on
+31.03.2023 15:57:29.668  Max concurrent sorting processes: 1 (sorting pool holds 100 blocks, 1 blocks per page)
+31.03.2023 15:57:29.673  Channel memory limit: 32 pages
+31.03.2023 15:57:29.678  Phrase index pool size: 32 pages
+31.03.2023 15:57:29.688  Event queue size: 128 items
+ Existing control point(s) in database:
+  Control point list is empty.
+31.03.2023 15:57:29.708  Kernel system parameters:  MBX - "STUDENT", Pid - 11800
+31.03.2023 15:57:29.719 Copyright (C) 1990-2021 Relex, Inc. All rights reserved.
+31.03.2023 15:57:29.719  Checking license in progress ... OK
+31.03.2023 15:57:29.748  It's a DEMO license. 
+31.03.2023 15:57:29.758  *** RDBMS Linter is running 
+31.03.2023 15:57:29.768  *** Press <ENTER> for shell prompt
+31.03.2023 15:57:30.158  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.168  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.268  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.279  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.459  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.468  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.589  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.589  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.659  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:30.668  W-145 (OPENTH) : Invalid charset: CP866
+31.03.2023 15:57:32.118  INFO: command 'SHUT', from Linter kernel console
+31.03.2023 15:57:32.134  *** Linter is coming down ***
+31.03.2023 15:57:32.139  *** Answer cache processing ***
+31.03.2023 15:57:32.144      Free 0 answer elements
+31.03.2023 15:57:32.153  *** Table queue processing ***
+31.03.2023 15:57:32.158  *** Column queue processing ***
+31.03.2023 15:57:32.168  *** User queue processing ***
+31.03.2023 15:57:32.168  *** File queue processing ***
+31.03.2023 15:57:32.192 Attention: file SYSWRK truncated from 16 to 4 pages
+31.03.2023 15:57:32.199  *** RDBMS Linter has been shut down ***
+Database creation time:      31.03.2023 15:57:29.41
+Last database startup time:  31.03.2023 15:57:29.45
+Last database shutdown time: 31.03.2023 15:57:31.80
+31.03.2023 15:57:32.308 Linter SQL Standard v. 6.0.17.94 connected to data base  "STUDENT          "
+31.03.2023 15:57:32.318  SY00 is "F:\JOB\PYTHON_NACHALO\Pars\PRS\RESOURSE\DATABASE\"
+31.03.2023 15:57:32.328  POOL holds 5000 pages (4599 free pages, 0 pages for in-memory tables)
+31.03.2023 15:57:32.328  Table    queue size  : 100 (0)
+31.03.2023 15:57:32.339  Column   queue size  : 500 (0)
+31.03.2023 15:57:32.348  Channel  queue size  : 100
+31.03.2023 15:57:32.353  File     queue size  : 200 (0)
+31.03.2023 15:57:32.358  User     queue size  : 100
+31.03.2023 15:57:32.378  Servers table is absent
+31.03.2023 15:57:32.388  Security groups table is absent
+31.03.2023 15:57:32.393  Security levels table is absent
+31.03.2023 15:57:32.403  Devices table is absent
+31.03.2023 15:57:32.408  Stations table is absent
+31.03.2023 15:57:32.418  Replication rules table is absent
+31.03.2023 15:57:32.423  Filter table is absent
+31.03.2023 15:57:32.433  File extension table is absent
+31.03.2023 15:57:32.438  Errors table is absent
+31.03.2023 15:57:32.444  In-kernel backup table is absent
+31.03.2023 15:57:32.453  Auditing disabled 
+31.03.2023 15:57:32.458  Events table is absent
+31.03.2023 15:57:32.484  Transaction control is turned on
+31.03.2023 15:57:32.488  Max concurrent sorting processes: 1 (sorting pool holds 100 blocks, 1 blocks per page)
+31.03.2023 15:57:32.493  Channel memory limit: 32 pages
+31.03.2023 15:57:32.503  Phrase index pool size: 32 pages
+31.03.2023 15:57:32.508  Event queue size: 128 items
+ Existing control point(s) in database:
+  Control point list is empty.
+31.03.2023 15:57:32.528  Kernel system parameters:  MBX - "STUDENT", Pid - 21128
+31.03.2023 15:57:32.538 Copyright (C) 1990-2021 Relex, Inc. All rights reserved.
+31.03.2023 15:57:32.544  Checking license in progress ... OK
+31.03.2023 15:57:32.573  It's a DEMO license. 
+31.03.2023 15:57:32.578  *** RDBMS Linter is running 
+31.03.2023 15:57:32.588  *** Press <ENTER> for shell prompt
+31.03.2023 15:57:35.099  INFO: command 'SHUT', from Linter kernel console
+31.03.2023 15:57:35.108  *** Linter is coming down ***
+31.03.2023 15:57:35.119  *** Answer cache processing ***
+31.03.2023 15:57:35.128      Free 0 answer elements
+31.03.2023 15:57:35.128  *** Table queue processing ***
+31.03.2023 15:57:35.144  *** Column queue processing ***
+31.03.2023 15:57:35.148  *** User queue processing ***
+31.03.2023 15:57:35.158  *** File queue processing ***
+31.03.2023 15:57:35.158 Attention: file SYSWRK truncated from 16 to 4 pages
+31.03.2023 15:57:35.168  *** RDBMS Linter has been shut down ***
+Database creation time:      31.03.2023 15:57:29.41
+Last database startup time:  31.03.2023 15:57:32.26
+Last database shutdown time: 31.03.2023 15:57:34.85
+31.03.2023 15:57:44.534 Linter SQL Standard v. 6.0.17.94 connected to data base  "STUDENT          "
+31.03.2023 15:57:44.538  SY00 is "F:\JOB\PYTHON_NACHALO\Pars\PRS\RESOURSE\DATABASE\"
+31.03.2023 15:57:44.564  POOL holds 5000 pages (4599 free pages, 0 pages for in-memory tables)
+31.03.2023 15:57:44.569  Table    queue size  : 100 (0)
+31.03.2023 15:57:44.578  Column   queue size  : 500 (0)
+31.03.2023 15:57:44.578  Channel  queue size  : 100
+31.03.2023 15:57:44.588  File     queue size  : 200 (0)
+31.03.2023 15:57:44.599  User     queue size  : 100
+31.03.2023 15:57:44.609  Servers table is absent
+31.03.2023 15:57:44.614  Security groups table is absent
+31.03.2023 15:57:44.624  Security levels table is absent
+31.03.2023 15:57:44.628  Devices table is absent
+31.03.2023 15:57:44.639  Stations table is absent
+31.03.2023 15:57:44.639  Replication rules table is absent
+31.03.2023 15:57:44.649  Filter table is absent
+31.03.2023 15:57:44.658  File extension table is absent
+31.03.2023 15:57:44.658  Errors table is absent
+31.03.2023 15:57:44.673  In-kernel backup table is absent
+31.03.2023 15:57:44.684  Auditing disabled 
+31.03.2023 15:57:44.689  Events table is absent
+31.03.2023 15:57:44.698  Transaction control is turned on
+31.03.2023 15:57:44.698  Max concurrent sorting processes: 1 (sorting pool holds 100 blocks, 1 blocks per page)
+31.03.2023 15:57:44.713  Channel memory limit: 32 pages
+31.03.2023 15:57:44.718  Phrase index pool size: 32 pages
+31.03.2023 15:57:44.728  Event queue size: 128 items
+ Existing control point(s) in database:
+  Control point list is empty.
+31.03.2023 15:57:44.750  Kernel system parameters:  MBX - "STUDENT", Pid - 15276
+31.03.2023 15:57:44.758 Copyright (C) 1990-2021 Relex, Inc. All rights reserved.
+31.03.2023 15:57:44.763  Checking license in progress ... OK
+31.03.2023 15:57:44.788  It's a DEMO license. 
+31.03.2023 15:57:44.798  *** RDBMS Linter is running 
+31.03.2023 15:57:44.809  *** Press <ENTER> for shell prompt
+31.03.2023 16:24:52.653  INFO: command 'SHUT', from Linter kernel console
+31.03.2023 16:24:52.669  *** Linter is coming down ***
+31.03.2023 16:24:52.669  *** Answer cache processing ***
+31.03.2023 16:24:52.669      Free 0 answer elements
+31.03.2023 16:24:52.684  *** Table queue processing ***
+31.03.2023 16:24:52.684  *** Column queue processing ***
+31.03.2023 16:24:52.700  *** User queue processing ***
+31.03.2023 16:24:52.700  *** File queue processing ***
+31.03.2023 16:24:52.716 Attention: file SYSWRK truncated from 16 to 4 pages
+31.03.2023 16:24:52.716  *** RDBMS Linter has been shut down ***
